@@ -1,0 +1,1 @@
+// This file is being intentionally emptied as we're removing the color scheme picker functionality
